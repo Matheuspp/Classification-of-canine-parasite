@@ -1,1 +1,1 @@
-# Classification-of-canine-parasite
+# Classification-of-natural-images
